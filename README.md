@@ -6,5 +6,5 @@ I'll use mostly two resources, a book and a Udemy course, which will be listed b
 
 ### Resources:
 
-- **Book:** Data Structures & Program Design In C <a href="https://www.amazon.com/Data-Structures-Program-Design-2nd/dp/013288366X" target="_blank">[Amazon Link]</a>
-- **Udemy:** Mastering Data Structures & Algorithms using C and C++ <a href="https://www.udemy.com/course/datastructurescncpp/" target="_blank">[Udemy Link]</a>
+- **Book:** Data Structures & Program Design In C <a href="https://www.amazon.com/Data-Structures-Program-Design-2nd/dp/013288366X">[Amazon Link]</a>
+- **Udemy:** Mastering Data Structures & Algorithms using C and C++ <a href="https://www.udemy.com/course/datastructurescncpp/">[Udemy Link]</a>
